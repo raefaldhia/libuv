@@ -1,0 +1,21 @@
+name: libuv
+description: D Programming Language bindings for libuv
+license: MIT
+sources:
+    - src/c/package.d
+    - src/c/uv.d
+    - src/c/android-ifaddrs.d
+    - src/c/pthread-barrier.d
+    - src/c/stdint-msvc2008.d
+    - src/c/tree.d
+    - src/c/uv-aix.d
+    - src/c/uv-bsd.d
+    - src/c/uv-darwin.d
+    - src/c/uv-errno.d
+    - src/c/uv-linux.d
+    - src/c/uv-os390.d
+    - src/c/uv-posix.d
+    - src/c/us-sunos.d
+    - src/c/uv-threadpool.d
+    - src/c/uv-unix.d
+    - src/c/uv-version.d
